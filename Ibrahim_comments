@@ -1,0 +1,35 @@
+# PokerApp Comments
+
+# Guipoker.py
+
+The code makes sense and the graphical user interface works.
+
+When playing the game the dice are able to be changed after a roll and then the score comes up
+seamlessly.
+
+It may be a bit difficult to read for someone that doesn't understand the graphics module,
+but there is a textbook that can help out with that.
+
+The color of the interface is also nice and different.
+
+# pokerapp.py
+
+pokerapp has been succesfully imported into guipoker so its functionality does work.
+
+The lines of code are easy to read and make sense in terms of their functionality.
+
+# roller.py
+
+The imports from random, graphics, button.py, and dieview.py all work.
+
+The buttons rolle dice and quit do their job
+
+# button.py
+
+The code works because when it is imported into guipoker its functionality work.
+
+The graphics module does what it needs to
+
+Just like guipoker, for someone without an understanding of the graphics module
+it may be difficult for them to understand some of the code.
+
